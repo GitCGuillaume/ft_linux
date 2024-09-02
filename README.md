@@ -7,7 +7,7 @@ je me suis permis d'ajouter un environnement de bureau appelé GNOME avec divers
 
 ![blfs](https://github.com/user-attachments/assets/b0b34473-8a43-4bec-87c8-4bed6d0904cb)
 
-Mozilla Firefox est installé en tant que navigateur à gauche, avec à droite NetworkManager, un service qui permet de mettre en place plusieurs des réseaux manuellement et automatiquement, en Wi-Fi ou filaire.
+Mozilla Firefox est installé en tant que navigateur à gauche, avec à droite NetworkManager, un service qui permet de mettre en place manuellement ou automatiquement plusieurs réseaux, en Wi-Fi ou filaire.
 
 
 ![gdm](https://github.com/user-attachments/assets/836dd6e1-4a66-484d-baf1-a34162614e6c)
